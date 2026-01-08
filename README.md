@@ -1,3 +1,5 @@
-# archscripts
+# Utility scripts
 
-Forged by nicotine and boredom.
+A box of questionable utility scripts that solve problems I shouldn’t have had in the first place.
+
+Forged by the power of nicotine and boredom.
