@@ -6,7 +6,7 @@ Forged by the power of nicotine and boredom.
 
 ## My setup
 
-OS: Arch Linux
-Shell: zsh
-WM: Hyprland
-Terminal: kitty
+- OS: Arch Linux
+- Shell: zsh
+- WM: Hyprland
+- Terminal: kitty
